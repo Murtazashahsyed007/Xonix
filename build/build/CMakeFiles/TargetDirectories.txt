@@ -1,0 +1,3 @@
+/home/ateeq/Downloads/build/build/CMakeFiles/xonix.dir
+/home/ateeq/Downloads/build/build/CMakeFiles/edit_cache.dir
+/home/ateeq/Downloads/build/build/CMakeFiles/rebuild_cache.dir
